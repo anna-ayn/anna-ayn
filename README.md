@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I code with
+- 📚 I’m a Computer Engineering student at [Simón Bolívar University](https://es.wikipedia.org/wiki/Universidad_Sim%C3%B3n_Bol%C3%ADvar_(Venezuela)).
+- 🌱 I’m currently learning: Advanced strategies for optimizing digital transformation in banking, with a focus on automation and customer satisfaction. 
+- 👯 I’m looking to collaborate on: Innovative software solutions that enhance operational efficiency, scalability, and seamless customer interactions.
+- ⚡ Fun fact: I thrive on finding elegant solutions to complex problems and enjoy watching cdramas and kdramas.
+
+###
+
+## 👩🏻‍💻 I code with
 
 ###
 
