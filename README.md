@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ###
 
-## Stats
+## 📊 Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=anna-ayn&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" alt="anna-ayn's GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=anna-ayn&theme=material-palenight&hide_border=true" alt="anna-ayn's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-ayn&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="anna-ayn's GitHub Stats" />
